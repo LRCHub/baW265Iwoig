@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ハローセカイ / バーチャル・シンガーver.",
+  "base_artist": "Hatsune Miku、Kagamine Rin、Kagamine Len、Megurine Luka、MEIKO、KAITO",
+  "createdAt": "2025-12-01T08:07:22.891388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハローセカイ",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/01_ハローセカイ_halca.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハローセカイ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_ハローセカイ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハローセカイ / バーチャル・シンガーver.",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_ハローセカイ___バーチャル・シンガーver._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハローセカイ",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_01_ハローセカイ_halca.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハローセカイ",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_02_ハローセカイ_halca.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハローセカイ",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_03_ハローセカイ_halca.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ハロー世界",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_04_ハロー世界_halca.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ハローセカイ",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_05_ハローセカイ_halca.txt"
+    }
+  ]
+}
